@@ -48,6 +48,7 @@ Features used:
 1. **Clone the repository**
  
 git clone https://github.com/Nithyanandhana/smart-crop-recommendation.git
+
 cd smart-crop-recommendation
 
 Install dependencies:
