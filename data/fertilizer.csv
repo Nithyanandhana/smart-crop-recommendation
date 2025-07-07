@@ -1,0 +1,23 @@
+Crop,N,P,K,Fertilizer_Name,Description
+rice,90,40,40,Urea,Urea (46% N) for nitrogen replenishment
+maize,80,35,40,Compost + NPK,Organic compost + balanced NPK blend
+chickpea,70,25,25,RDF-based NPK (12-32-16),Recommended dose for pulses
+kidneybeans,70,30,30,DAP (Diammonium Phosphate),High phosphorus requirement
+pigeonpeas,70,25,30,Organic Manure,Farmyard manure for slow nutrient release
+mothbeans,60,20,20,Compost + Urea,Compost base with supplemental urea
+mungbean,60,25,25,RDF-based NPK,Balanced for legumes
+blackgram,60,25,25,DAP + Vermicompost,Phosphorus boost + organic matter
+lentil,60,25,25,Organic Manure,Neutral NPK suit for pulses
+pomegranate,80,40,40,NPK 8-8-8,Nutrient balance for fruiting crops
+banana,100,30,200,Muriate of Potash,Potassium-focused for fruit quality
+mango,100,40,50,Compost + NPK Slow Release,Nutrient-supportive mix
+grapes,80,40,60,NPK 19-19-19,Balanced blend
+watermelon,90,60,60,DAP + Potash + Compost,Heavy feeder needs all three
+muskmelon,60,40,40,Compost + DAP,Organic with moderate phosphorus
+apple,80,40,80,NPK 17-17-17,Mature fruit tree maintenance
+orange,90,50,50,Citrus-specific NPK,Fertilizer for citrus nutrition
+papaya,100,40,100,NPK 20-10-20,Fruit yield support
+coconut,80,50,300,Muriate of Potash + Organic,Palm high K requirement
+cotton,100,50,50,Super Phosphate + Urea + Potash,High N-P-K blend
+jute,60,40,40,NPK 12-32-16,Leafy fiber crop fertilizer
+coffee,80,30,80,NPK 19-19-19 + Organic,Blend suitable for shade trees
