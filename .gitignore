@@ -16,7 +16,7 @@ build/
 *.csv~
 
 # Ignore saved models
-*.pkl
+# *.pkl
 *.joblib
 
 # OS-specific files
