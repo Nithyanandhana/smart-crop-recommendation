@@ -17,7 +17,7 @@ build/
 
 # Ignore saved models
 # *.pkl
-*.joblib
+# *.joblib
 
 # OS-specific files
 .DS_Store
